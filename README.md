@@ -7,6 +7,8 @@
 
 🎓 With extensive experience as a Ruby software developer at FaceIT, I have been instrumental in extracting and processing large volumes of data from diverse websites. Leveraging my expertise in Ruby programming and data parsing, I design and implement robust solutions to collect, analyze, and transform web data into actionable insights. I excel in developing efficient web scraping scripts, optimizing data processing pipelines, and collaborating with cross-functional teams to deliver solutions aligned with clients' needs. I am proactive in staying updated with emerging technologies, actively participating in code reviews, and contributing to knowledge sharing initiatives. My contributions significantly enhance data-driven decision-making processes, empowering clients to make informed business decisions based on accurate and timely information. I am enjoying learning something new, I want to grow up as a specialist and take part in complicated projects.
 
+🎯 Ruby · RoR · YARD · MySQL · Docker · Cron · Linux · AWS
+
 👩‍💻 I graduated from GoIT school and now I continue to deepen my knowledge in programming.
 
 ## 📈 GitHub Stats

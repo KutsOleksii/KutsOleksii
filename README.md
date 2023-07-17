@@ -9,7 +9,7 @@
 
 🎯 Ruby · RoR · YARD · MySQL · Docker · Cron · Linux · AWS
 
-👩‍💻 I graduated from GoIT school and now I continue to deepen my knowledge in programming.
+👩‍💻 I graduated with honor from Zaporizhia State Engineering Academy in 2003. I have Master's degree in Automated Systems Software Engineering and System Programming. I continue to deepen my knowledge in the field of web programming.
 
 ## 📈 GitHub Stats
 

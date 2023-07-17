@@ -11,8 +11,8 @@
 
 ## 📈 GitHub Stats
 
-![Classika88 GitHub Stats](https://github-readme-stats.vercel.app/api?username=classika88&count_private=true&hide=contribs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=classika88&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
+![Classika88 GitHub Stats](https://github-readme-stats.vercel.app/api?username=KutsOleksii&count_private=true&hide=contribs&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KutsOleksii&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
 <!--
 **Classika88/classika88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

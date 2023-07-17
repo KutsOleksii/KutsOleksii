@@ -23,9 +23,17 @@
 📷 Instagram: @YourInstagramHandle
 📝 Blog: Your Blog
 -->
-😄 Pronouns: **he/she/it** Whatever you like (but i prefer __he__)
+😄 Pronouns: **he/she/it**   Whatever you like (but i prefer __he__)
 
-⚡ Fun fact: ...
+⚡ Fun facts:
+1. I am a winner of the All-Ukrainian Biology Olympiad. So if you work in the field of biomedicine, I am ready to cooperate
+2. I am fond of indor rowing on Concept2 ergometers. Some of my PRs are:
+```
+  500m -    1:25.7
+ 2000m -    6:42.6
+42195m - 2:58:46.0
+```
+3. I am a cross-stitcher. Unexpected, right?
 
 ## 📈 GitHub Stats
 

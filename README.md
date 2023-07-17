@@ -23,6 +23,9 @@
 📷 Instagram: @YourInstagramHandle
 📝 Blog: Your Blog
 -->
+😄 Pronouns: **he/she/it** Whatever you like (but i prefer __he__)
+
+⚡ Fun fact: ...
 
 ## 📈 GitHub Stats
 

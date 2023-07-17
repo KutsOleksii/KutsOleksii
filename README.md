@@ -3,7 +3,7 @@
 
 ## 😄 About me
 
-✌️ Hello. My name is Alexey. I've been programming since I was 7 years old. Basics, Pascal, C, Assembler, Pearl, Lisp... The list is very long and I don't want it to stop expanding. Performance optimization is my passion. I believe that any code can be improved without losing its clarity. Let's collaborate and create innovative backend solutions together!
+✌️ Hello. My name is Oleksii. I've been programming since I was 7 years old. Basics, Pascal, C, Assembler, Pearl, Lisp... The list is very long and I don't want it to stop expanding. Performance optimization is my passion. I believe that any code can be improved without losing its clarity. Let's collaborate and create innovative backend solutions together!
 
 🎓 With extensive experience as a Ruby software developer at FaceIT, I have been instrumental in extracting and processing large volumes of data from diverse websites. Leveraging my expertise in Ruby programming and data parsing, I design and implement robust solutions to collect, analyze, and transform web data into actionable insights. I excel in developing efficient web scraping scripts, optimizing data processing pipelines, and collaborating with cross-functional teams to deliver solutions aligned with clients' needs. I am proactive in staying updated with emerging technologies, actively participating in code reviews, and contributing to knowledge sharing initiatives. My contributions significantly enhance data-driven decision-making processes, empowering clients to make informed business decisions based on accurate and timely information. I am enjoying learning something new, I want to grow up as a specialist and take part in complicated projects.
 
@@ -26,8 +26,8 @@
 😄 Pronouns: **he/she/it**   Whatever you like (but i prefer __he__)
 
 ⚡ Fun facts:
-1. I am a winner of the All-Ukrainian Biology Olympiad. So if you work in the field of biomedicine, I am ready to cooperate
-2. I am fond of indor rowing on Concept2 ergometers. Some of my PRs are:
+1. I am a winner of the All-Ukrainian Biology Olympiad. So if you work in the field of biomedicine or biological science, I am ready to cooperate
+2. I am fond of indoor rowing on Concept2 ergometers. Some of my PRs are:
 ```
   500m -    1:25.7
  2000m -    6:42.6

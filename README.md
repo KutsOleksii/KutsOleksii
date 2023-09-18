@@ -11,6 +11,7 @@
 
 👩‍💻 I graduated with honor from Zaporizhia State Engineering Academy in 2003. I have Master's degree in Automated Systems Software Engineering and System Programming. My diploma thesis - "Optimization of the algorithm of realistic images construction by ray tracing method". I continue to deepen my knowledge in the field of web programming.
 
+<!--
 🌱 I’m currently learning RoR competencies with this [roadmap](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard/).
 
 <!--

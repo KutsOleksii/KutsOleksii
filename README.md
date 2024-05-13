@@ -13,6 +13,7 @@
 
 <!--
 🌱 I’m currently learning RoR competencies with this [roadmap](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard/).
+-->
 
 📫 How to Reach Me:
 
